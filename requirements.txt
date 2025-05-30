@@ -5,5 +5,5 @@ matplotlib
 tensorboard
 streamlit
 scikit-learn
-joblit
+joblib
 seaborn
